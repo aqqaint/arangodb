@@ -7,3 +7,7 @@
 *.im?
 target
 work
+
+node_modules
+build/
+dist/
